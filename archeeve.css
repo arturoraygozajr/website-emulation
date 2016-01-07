@@ -1,0 +1,45 @@
+body {
+	background-image: url("archeeve background.jpg");
+	background-size: cover;
+	/*height:50px;
+	width:50px;*/
+}
+
+.home h1 {
+	color: rgb(255,255,255);
+	text-align: center;
+	font-family: BonvenoCFLight;
+	font-weight:300;
+}
+.home li {
+	display: inline-block;
+	margin: 40px 0 400px 0;
+}
+
+.home a {
+	border : 5px solid white;
+	padding: 0px 50px;
+	text-decoration: none;
+	color:white;
+	font-size: 18px;
+	font-weight:;
+	margin-top:50px;
+	height: 50px;
+	width:200px;
+	line-height: 50px;
+	display: inline-block;
+	border-radius: 4px;
+
+}
+
+.widgets {
+	border: 3px solid white;
+	padding:20px;
+	float: left;
+    height: 200px;
+    width: 200px;
+}
+
+.wrapper {
+
+}
